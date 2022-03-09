@@ -1,9 +1,5 @@
 <?php 
 
-if (!class_exists('SQLite3')){
-	die('SQLite3 disabled. Quit.' . PHP_EOL);
-}
-
 // открывает БД и инициализирует таблицы
 function dbOpen() { 
 

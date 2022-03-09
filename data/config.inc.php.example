@@ -1,6 +1,0 @@
-<?php
-return array (
-    'user' => 'username',
-    'pass' => 'PasswordInBase64==',
-    'webMaster' => 'webmaster@example.org (Webmaster)',
-);

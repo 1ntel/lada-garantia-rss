@@ -1,0 +1,16 @@
+<?php
+return array (
+    'user'        => 'username',
+    'pass'        => 'PasswordInBase64==',
+	'domain'      => 'http://portal-etc-auto',
+    'useragent'   => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36', 
+    'cookiefile'  => '.\data\cookie.txt',
+	
+	'title'          => 'Новости - Лада Гарантия',
+	'description'    => 'Новости портала «Лада Гарантия»',
+	'link'           => 'http://portal-etc-auto/main',
+	'imageurl'       => 'http://portal-etc-auto/images/logo.jpg',
+	'generator'      => 'portal-etc-auto',
+	'managingEditor' => 'SupportOTPD',
+	'webMaster'      => 'webmaster@example.org (Webmaster)',
+);
